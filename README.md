@@ -13,13 +13,7 @@ Sou desenvolvedor Full Stack com experiência em desenvolvimento web e infraestr
 Trabalhei em diversos projetos pessoais. Possuo conhecimentos em programação funcional, POO, DevOps.
 Tenho interesse em escalabilidade de aplicações e melhores praticas de desenvolvimento.
 
-Apaixonado por tecnologia! Estou buscando conhecimento para me tornar um especialista na área de desenvolvimento.
-
-Adoro contribuir e ajudar em comunidades de tecnologia, sempre busco aprender com projetos pessoais e sempre estou buscando melhorar meus métodos de desenvolver software.
-
-Em todas minhas experiências como desenvolvedor o trabalho em equipe sempre foi o meu forte.
-
-Entusiasta em tecnologia, busco aprender novos conceitos e aplicá-los para visualizar na prática, sempre aprendendo com os erros, evitando que os mesmos erros aconteçam novamente.
+Apaixonado por tecnologia! E certo de que o trabaho em equibe vence qualquer obstaculo!
 
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" ></code>
