@@ -51,7 +51,7 @@ Apaixonado por tecnologia! E certo de que o trabaho em equibe vence qualquer obs
 <code><img height="20" src="https://img.shields.io/badge/ContextAPI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 
 
-![MathssF's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathssF&show_icons=true&count_private=true)
+<!-- ![MathssF's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathssF&show_icons=true&count_private=true) -->
 
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathssF&layout=compact&theme=graywhite&title_color=268bd2" alt="MathssF"/>
 <br>
